@@ -22,7 +22,7 @@ Dataset for LaneNet: self-maded dataset
 python main.py
 ```
 
-## Graphical User Interface(GUI) 
+## Graphical User Interface (GUI) 
 
 ![](./data/images/GUI.png)
 
