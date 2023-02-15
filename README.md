@@ -30,6 +30,6 @@ python main.py
 
 https://github.com/ultralytics/yolov5
 
-https://github.com/harryhan618/LaneNet
+https://github.com/Yiming992/LaneDetect
 
 https://github.com/abewley/sort
