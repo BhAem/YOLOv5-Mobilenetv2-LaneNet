@@ -1,0 +1,6 @@
+train: UA_DETRAC_yolo_data/images/train
+val: UA_DETRAC_yolo_data/images/test
+
+nc: 1
+
+names: ['car']

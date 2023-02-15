@@ -1,0 +1,6 @@
+train: UA-DETRAC4/images/train
+val: UA-DETRAC4/images/test
+
+nc: 1
+
+names: ['car']
